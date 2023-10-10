@@ -1,1 +1,1 @@
-# my-git
+# java-app
